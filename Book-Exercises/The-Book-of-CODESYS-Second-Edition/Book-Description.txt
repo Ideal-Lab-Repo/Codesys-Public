@@ -1,0 +1,21 @@
+The Book of CODESYS Second Edition: The ultimate guide to PLC and Industrial Controls programming with the CODESYS IDE
+Author:  Gary L. Pratt
+ISBN-13: 978-1737821434
+
+Master CODESYS with the Definitive Guide—Now Updated in Its Second Edition
+The Book of CODESYS, Second Edition is the ultimate resource for mastering PLC programming with the CODESYS IDE and IEC 61131-3 standards. Packed with over 60 hours of expert instruction, hands-on labs, and hundreds of new and significantly revised pages, this edition builds on the acclaimed CODESYS Intensive Training Course – delivering more content at a fraction of the cost.
+
+Now Better Than Ever: The Second Edition
+This updated release features hundreds of new and extensively revised pages, offering fresh insights, expanded labs, and the latest best practices for CODESYS and IEC 61131-3. Whether you’re troubleshooting a tricky sequence or designing next-gen automation, this is your go-to guide.
+
+Save Thousands Compared to the equivalent CODESYS Training Course
+The Book of CODESYS, Second Edition delivers a superset of the official CODESYS V3 Intensive Training – for far less, making it the smartest way to master CODESYS or IEC61131-3 on your own terms.
+
+Key Features:
+Deep Dive Learning: From beginner to expert, cut through CODESYS complexity with clear explanations and detailed graphics.
+Hands-On Labs: New and updated exercises—like tuning PID loops or coding state machines—reinforce real-world skills.
+Full IEC 61131-3 Mastery: Optimize every language for your projects, with expanded guidance on when and how to use them.
+Massive Update: Over 9,000 hours of development, now enhanced with hundreds of new pages for 2025’s automation challenges.
+
+Additional Resources
+Explore a sample chapter, lab files, and full-text search at www.BookOfCODESYS.com. Instructor packages available for qualified educators. Ready to level up your skills?
